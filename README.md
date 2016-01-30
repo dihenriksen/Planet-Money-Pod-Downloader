@@ -1,4 +1,4 @@
-# Planet-Money-Pod-Downloader
+# Planet Money Pod Downloader
 
 I found it difficult and time consuming to download archived Planet Money podcasts, so I wrote a small scraper to do it for me.
 
